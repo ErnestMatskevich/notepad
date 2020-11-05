@@ -6,7 +6,7 @@ from tkinter import messagebox
 
 FILE_NAME = tkinter.NONE
 
-
+#comment
 def new_file():
 	global FILE_NAME
 	FILE_NAME = "Untitled"
